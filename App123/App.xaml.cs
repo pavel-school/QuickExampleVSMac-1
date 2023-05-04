@@ -9,7 +9,7 @@ namespace App123
         public App()
         {
             InitializeComponent();
-
+            // Adding a comment to chage the code
             MainPage = new NavigationPage(new MainPage());
         }
 
